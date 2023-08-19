@@ -1,8 +1,21 @@
-[![Social banner for medkalech](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Med Kalech.
-</p>
-<p align='center'>For enquiries, reach out @ https://medkalech.netlify.app/ or over on <a href="https://www.linkedin.com/in/mohamed-kalech/">Linkedin</a>.</p>
+[](https://imgur.com/wR3ypVo)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Med kalech
+==================================================================================================================================
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+Mobile Developer
+----------------
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+
+* 🖥️  Take a look on [Website](http://qsdsqdsqdsq)
+* ✉️  You can contact me at [medkalech@gmail.com](mailto:medkalech@gmail.com)
+
+### Skills
+
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/KalechMed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/medkalech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
