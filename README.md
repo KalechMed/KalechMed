@@ -1,13 +1,13 @@
 ![](https://raw.githubusercontent.com/KalechMed/KalechMed/main/header-banner--optimized%204.gif)
-Hi I'm Med kalech
+Hi I'm Med Kalech
 ==================================================================================================================================
 
-Mobile developer
+Mobile Developer
 ----------------
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+23-year-old Software Engineering student at Esprit. A dedicated and creative problem solver, committed to crafting innovative solutions through hard work and a passion for technology.
 
-* 🖥️ [My Portfolio](http://qsdsqdsqdsq)
+* 🖥️ [My Portfolio](https://medkalech.netlify.app/)
 * ✉️ [medkalech@gmail.com](mailto:medkalech@gmail.com)
 
 ### Skills
