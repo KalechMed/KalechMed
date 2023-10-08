@@ -8,7 +8,7 @@ Mobile Developer
 
 23-year-old Software Engineering student at Esprit. A dedicated and creative problem solver, committed to crafting innovative solutions through hard work and a passion for technology.
 
-* 🖥️ [My Portfolio](https://medkalech.netlify.app/)
+* 🌐 [My Portfolio](https://medkalech.netlify.app/)
 * ✉️ [medkalech@gmail.com](mailto:medkalech@gmail.com)
 
 ### Skills
