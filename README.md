@@ -1,4 +1,5 @@
-![](https://github.com/KalechMed/KalechMed/blob/main/GITHUB%20BANNER.gif)
+<img src="https://github.com/KalechMed/KalechMed/blob/main/GITHUB%20BANNER.gif"/> 
+
 Hi I'm Med Kalech
 ==================================================================================================================================
 
