@@ -1,4 +1,4 @@
-![](https://i.imgur.com/nJFYGCj.gif)
+![](https://github.com/KalechMed/KalechMed/blob/main/GITHUB%20BANNER.gif)
 Hi I'm Med Kalech
 ==================================================================================================================================
 
