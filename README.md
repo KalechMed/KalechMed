@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/KalechMed/KalechMed/main/header-banner--optimized%204.gif)
+![Alt Text](https://raw.githubusercontent.com/KalechMed/KalechMed/main/header-banner--optimized%204.gif)
 Hi I'm Med Kalech
 ==================================================================================================================================
 
