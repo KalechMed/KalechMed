@@ -3,7 +3,7 @@
 Hi I'm Med Kalech
 ==================================================================================================================================
 
-Mobile Developer
+iOS Developer
 ----------------
 
 23-year-old Software Engineering student at Esprit. A dedicated and creative problem solver, committed to crafting innovative solutions through hard work and a passion for technology.
