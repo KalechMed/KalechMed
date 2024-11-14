@@ -3,12 +3,12 @@
 Hi I'm Med Kalech
 ==================================================================================================================================
 
-iOS Developer
+iOS Engineer
 ----------------
 
 I'm a 24-year-old iOS Engineer, a dedicated and creative problem-solver, committed to crafting innovative solutions through hard work and a passion for technology. For a closer look at my creativity and dedication, I invite you to browse through my projects below.
 
-* 🌐 [My Portfolio](https://medkalech.netlify.app/)
+* 🌐 [My Portfolio]([https://medkalech.netlify.app/](https://medkalech.me/))
 * ✉️ [medkalech@gmail.com](mailto:medkalech@gmail.com)
 
 ### Skills
